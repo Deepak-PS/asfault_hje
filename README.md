@@ -1,4 +1,4 @@
-# asfault_hje
+# Asfault_HJE
 Automatically Generating Test Scenarios that Lead to the Discomfort of the Passenger
 
 # Goals
